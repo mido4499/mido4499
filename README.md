@@ -13,7 +13,7 @@ I am a computer science student with a minor in Data Science. I have a passion f
 - **Data Analysis & Visualization**: SQL, Pandas, Plotly Express, Tableau
 
 ## Team Projects:
-- **EPICS Hydration Station Dashboard project**: Leading a team of 3 engineers to develop a full-stack dashboard application for Keys To Change organization to help them manage their hydration stations.
+- **EPICS Hydration Station Dashboard project**: Leading a team of 3 engineers to develop a full-stack dashboard application for Keys To Change organization to help them manage their hydration stations.  (The repository is currently private for security reasons)
 - **Carbon Health web app**: Collaborated with 3 students during **Sunhacks** to develop a web application to help users keep track of their carbon usage, using input data from the user.
 - **GCA The Grammys Project**: A *Data Analysis* class project for The Global Career Accelerator. Used Pandas Python library to do data entry and data cleanup, converting raw traffic data into structured datasets and data visualizations, to help with data-driven decision-making.
 - **GCA Intel Data Center Project**: Developed SQL queries on 3 datasets to support decision making for choosing the new Intel data center. Developed data visualizations using Tableau and a dashboard for viewing different related insights.
