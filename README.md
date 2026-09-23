@@ -3,8 +3,7 @@ I am a computer science student with a minor in Data Science. I have a passion f
 
 ## About me:
 - 🇪🇬 Originally from Egypt
-- 📚 Sophomore Computer Science student at ASU, with a minor in Data Science.
-- 🧑‍💻 Working on: Hydration Station Dashboard EPICS project, Internlog Web Site personal project
+- 📚 Junior Software Engineering student at ASU, with a minor in Data Science.
 
 ## Tech Stack:
 - **Programming Languages**: JavaScript, Python, Java, Bash, C#
