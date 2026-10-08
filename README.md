@@ -1,9 +1,11 @@
-## Hi there, my name is Ahmed Shaheen. 👋
-I am a computer science student with a minor in Data Science. I have a passion for building things and experience in doing so. I consider myself an artist: my Github profile is my canvas, and my keyboard is my brush. Entertain your eyes with some real art!
+## Hi there, I'm Ahmed Shaheen. Nice to meet you! If you wanna chat, feel free to email me at ahmedwael4499@gmail.com.
 
 ## About me:
-- 🇪🇬 Originally from Egypt
 - 📚 Junior Software Engineering student at ASU, with a minor in Data Science.
+- 
+## Personal Projects:
+- **Can't Hack It**: An API that pulls data about different tech events nationwide, including hackathons, tech conferences, and meetups, and sends them directly to your email (if you're subscribed).
+- **ratings-platform-template**: A fully functional, open-source template for a ratings-platform web app that uses Next.js and Tailwind CSS.
 
 ## Tech Stack:
 - **Programming Languages**: JavaScript, Python, Java, Bash, C#
@@ -16,9 +18,5 @@ I am a computer science student with a minor in Data Science. I have a passion f
 - **EPICS Hydration Station Dashboard project**: Leading a team of 3 engineers to develop a full-stack dashboard application for Keys To Change organization to help them manage their hydration stations.  (The repository is currently private for security reasons)
 
 ## Industry Projects:
-- **Text Recognition Python App**: During my internship at InStudio BIM, I developed a Python app required by my manager to extract information from logistics receipts and store them in Excel files. Uses different Python libraries to create an executable file, so that all the logic is wrapped in one file.
+- **Text Recognition Python App**: During my internship at InStudio BIM, I developed a Python app required by my manager to extract information from logistics receipts and store them in Excel files. Used Python libraries to create an executable file, wrapping all the logic in one file.
 - **Revit Plugin**: Developed a plugin using Revit SDK (C# .NET framework) to detect intersections between pipes in architectural plans and add gaps to make the chart more readable.
-
-## Personal Projects:
-- **ratings-platform-template**: A fully-functional, open-source template for a ratings-platform web app that uses Next.js and Tailwind CSS.
-- 
