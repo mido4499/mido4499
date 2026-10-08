@@ -2,7 +2,7 @@
 
 ## About me:
 - 📚 Junior Software Engineering student at ASU, with a minor in Data Science.
-- 
+  
 ## Personal Projects:
 - **Can't Hack It**: An API that pulls data about different tech events nationwide, including hackathons, tech conferences, and meetups, and sends them directly to your email (if you're subscribed).
 - **ratings-platform-template**: A fully functional, open-source template for a ratings-platform web app that uses Next.js and Tailwind CSS.
